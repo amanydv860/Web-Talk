@@ -1,0 +1,11 @@
+
+/* index.css or tailwind.css */
+@import './styles/videoComponent.module.css'; /* Import custom styles */
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
